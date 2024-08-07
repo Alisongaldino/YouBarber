@@ -1,9 +1,10 @@
-"use client"
 
-import { Button } from "./_components/ui/button"
-
+import Header from "./_components/header"
 const Home = () => {
-  return <Button>aplica</Button>
+  return <div>
+    {  }
+    <Header/>
+  </div>
 }
 
 export default Home
